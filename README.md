@@ -22,7 +22,6 @@ function getName(){
     document.getElementById("q").innerHTML=tmp
 }
 </script>
-<h1>超级点名器1-4</h1>
 <span id="q">未点名</span><br/><br/>
 <span id="e">点名人数:</span><input type="text" id="w"/><br/>
 <button onclick="getName()">点名</button>
